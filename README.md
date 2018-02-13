@@ -2,7 +2,7 @@
 
 
 ## HTML assignment
-**Due:** Friday, Febuary 16, 3 p.m.
+**Due:** Friday, Febuary 23, 3 p.m.
 
 
 ### Instructions
